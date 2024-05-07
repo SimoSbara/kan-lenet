@@ -9,6 +9,10 @@ The KAN classifier receives the flatten data from convolution layers, the accura
 
 At the end of the script, it will convert the model in ONNX.
 
+# Requirements
+* You need to download [efficient_kan](https://github.com/Blealtan/efficient-kan)
+* You need PyTorch CUDA for training with GPU
+
 # Testing
 I'm using [HandOCRPaint](https://github.com/SimoSbara/HandOCRPaint) as handwritten OCR tester. 
 
