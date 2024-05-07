@@ -15,3 +15,4 @@ I'm using [HandOCRPaint](https://github.com/SimoSbara/HandOCRPaint) as handwritt
 # Ideas
 * Training on the entire alphabet
 * Training on different fonts
+* Benchmark with MLP equivalent
