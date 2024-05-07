@@ -10,7 +10,7 @@ The KAN classifier receives the flatten data from convolution layers, the accura
 At the end of the script, it will convert the model in ONNX.
 
 # Requirements
-* You need to download [efficient_kan](https://github.com/Blealtan/efficient-kan)
+* You need to download [efficient_kan](https://github.com/Blealtan/efficient-kan) and put it in the same folder of the script
 * You need PyTorch CUDA for training with GPU
 
 # Testing
