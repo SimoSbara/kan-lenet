@@ -1,7 +1,7 @@
 # kan-lenet
 
 # Description
-[LeNet](https://medium.com/@siddheshb008/lenet-5-architecture-explained-3b559cb2d52b) Convolutional Network with KAN as classifier
+[LeNet](https://medium.com/@siddheshb008/lenet-5-architecture-explained-3b559cb2d52b) Convolutional Network with [KAN](https://github.com/KindXiaoming/pykan) as classifier
 
 This python script is derived from the [efficient_kan](https://github.com/Blealtan/efficient-kan) [MNIST](https://github.com/Blealtan/efficient-kan/blob/master/examples/mnist.py) example.
 
